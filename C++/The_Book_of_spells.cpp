@@ -226,7 +226,7 @@ main() {
  
     auto attackSpell = make_shared<Attack>();
     auto protectSpell = make_shared<Protect>();
-    auto healSpell = make_shared<Heal>();
+    auto healSpell = make_shared<Heal>(10);
     auto unforgSpell = make_shared<Unforgivable>();
     auto houseSpell = make_shared<Household>();
 
