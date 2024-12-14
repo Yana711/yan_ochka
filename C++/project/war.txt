@@ -1,0 +1,9 @@
+Wizards
+Newt 145 78
+Call 100 54
+Book
+NatureSpells wefw ffff HarrySpells A P P A
+People
+Popov 100 40 Granate Pistole
+Monsters
+Monster 50 72 Speed
